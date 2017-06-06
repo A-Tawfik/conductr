@@ -1,9 +1,5 @@
 ![conductr](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/513/648/datas/gallery.jpg "")
 
-
-
-
-
 ## Inspiration
 Website builders like Wix and Squarespace have become increasingly popular to help non-technical folks build basic websites. However, for the lesser technical peeps, there’s a lot of room for improvement. We believe intelligent voice-command for building websites helps remove some of the confusion around using website builders, and that’s how Conductr was born.
 
